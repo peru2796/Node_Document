@@ -8,3 +8,15 @@ Reasons For Node.js
 	->every browser has different js engine so that it will behave every code in different behaviour.
 	For Example:IE uses chakra,m.firefox uses spider monkey and chrome uses v8.
 outcoming of Node.js
+	->node.js was first invented by Rayn Dahl in 2009.Node.js was a server side application.
+	->It will the length of the code.
+	->it will execute the javascript code in its engine also plus it will have own space to execute its node.js code.
+	->it will produces the fewer line of code.
+	->it will produces 2X speed for req/sec.
+	->it will helpful for built the application with fewer people.
+	->it has 35% faster response time.
+Features of Node.js
+	->Node.js has a v8+some additional modules which are not done by browser.it will help us to create server,file handling,etc.
+	->Node is not the programming language. it is just the run time environment for executing the javascript code.
+	->node is not the frame work like asp.net and all.
+How Node.js Works
